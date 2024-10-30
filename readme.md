@@ -1,4 +1,4 @@
 # Primer fichero readme
-# ~~Este texto está tachado~~
-# _Este texto está en cusriva_
-# **Este texto está en negrita**
+Me llamo Miguel Ángel.
+Este es nuestro instituto :+1: [https://fpiespablopicasso.es/]
+![Imagen de una cabra de la legion](./images/Cabra%20Legión.webp)
